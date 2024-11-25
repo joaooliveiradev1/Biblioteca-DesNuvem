@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    user-select: none;
+}
+
+:root{
+    --primaria: #E4E0E1;
+    --secundaria: #D6C0B3;
+    --terciaria: #AB886D;
+    --quartenaria: #493628;
+    --quinta:  #493628d7;
+    --dtlCard: #8e88898a;
+    --dtlCardHover: #8e8889b3;
+}
+
+.koh-santepheap-light {
+    font-family: "Koh Santepheap", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .koh-santepheap-regular {
+    font-family: "Koh Santepheap", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body{
+    background-image: url(https://64.media.tumblr.com/c253e0c894134a6d728ae77f32ed98b2/4689fa43d09593aa-07/s1280x1920/ba09cfbc43e42a03fe068d430d1e361c4e60d1f6.gif);
+    background-size: cover;
+}
+
+.container{
+    height: 95vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    & .principal{
+        height: 70%;
+        width: 70%;
+        display: flex;
+        flex-flow: column;
+        padding: 1rem;
+        align-items: start;
+        background-color: var(--primaria);
+        text-align: center;
+        gap: 0.8rem;
+        border-radius: 5px;
+
+        & h1{
+            color: var(--quartenaria);
+            transition: 0.3s;
+        }
+
+        &  #title:hover{
+            cursor: pointer;
+            scale: 1.03;
+            transition: 0.3s ease-in-out;
+            color: var(--quinta);
+        }
+    }
+
+
+.books{
+display: grid;
+align-items: start;
+justify-content:center;
+grid-template-columns: repeat(5, 20%);
+width: 100%;
+height: 100%;
+list-style: none;          
+    & .book{
+        cursor: pointer;
+        display: flex;
+        flex-flow: column;
+        margin-left: 1.5rem;
+        justify-content: space-evenly;
+        padding: 0.5rem;
+        width: 80%;
+        height: 80%;
+        text-align: start;
+        gap: 0.2rem;
+        background-color: var(--dtlCard);
+        border-radius: 5px;
+        & img {
+            max-height: 50%;
+            aspect-ratio: 100% / 100%;
+            }
+        }
+
+        :hover{
+            transform: 0.3s ease-in-out;
+            background-color: var(--dtlCardHover);
+        }
+        
+        }
+
+
+
+}
+
+
+.rodape{
+    height: 5vh;
+    width: 100%;
+    background-color:var(--quinta);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+
+    & p{
+        color: white;
+    }
+}
+
