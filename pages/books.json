@@ -1,0 +1,113 @@
+[
+    {
+        "url": "https://www.estadao.com.br/recomenda/wp-content/uploads/2024/03/Duna-1965.jpg.webp",
+        "easterEgg": "https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=UN62NAL70W8&dib=eyJ2IjoiMSJ9.KktxiTShNNUNSVgX2-feN7YRpcspmeiI8FREHzbokprWYvcExCt3URMXRtkpNYEOX1HS2XQ_ZNf0krSXBEaNjtFeSW_xDZfTlatu0raWg5DHaAEPT7kQDKKILgR7EP4CBB9IyM2MqMOBv3-gUZoU5byMpI-gTv9D38p8za2m_F74gktKv25iVeBF2NaYUf6JGZ64XE_2NDCKz5Li9lbeDSEB8WK1SToT1ds9KLAzNva8EWjx00fvUtmuSoaX9RDhEBh_3OKiotyLSpZ_VjhcvSjQtUQ-qCI82PaZPQ1gbZc.Z9IiiiDE_-ChSJHhRFpF-P3eJ9YFhKiDxKRkTn2ntDU&dib_tag=se&keywords=duna+1965&qid=1730901899&sprefix=duna+1965%2Caps%2C153&sr=8-1",
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "ano_publicacao": 1965,
+        "genero": "Ficção Científica",
+        "editora": "Chilton Books",
+        "idioma": "Português",
+        "paginas": 688,
+        "disponibilidade": {
+            "estoque": 12,
+            "preco": 45.90,
+            "formato": [
+                "Capa dura",
+                "E-book"
+            ]
+        }
+    },
+    {
+        "url": "https://www.bibliaonline.com.br/",
+        "easterEgg": "https://imgur.com/a/3VIIyIb",
+        "titulo": "Criador de Todas as Coisas",
+        "autor": "O poderoso",
+        "ano_publicacao": 2014,
+        "genero": "Ciência",
+        "editora": "Chapados Estudantes",
+        "idioma": "Português",
+        "paginas": 420,
+        "disponibilidade": {
+            "estoque": 10,
+            "preco": 45.90,
+            "formato": [
+                "Piteira dura",
+                "Seda"
+            ]
+        }
+    },
+    {
+        "url": "https://m.media-amazon.com/images/I/51E2055ZGUL._AC_UF894,1000_QL80_.jpg",
+        "easterEgg": "https://github.com/MiqueiasMaia",
+        "titulo": "Clean Code",
+        "autor": "Robert C. Martin",
+        "ano_publicacao": 2008,
+        "genero": "Programação",
+        "editora": "Prentice Hall",
+        "idioma": "Inglês",
+        "paginas": 464,
+        "disponibilidade": {
+            "estoque": 5,
+            "preco": 55.00,
+            "formato": [
+                "Capa mole",
+                "E-book"
+            ]
+        },
+        "topicos": [
+            "Boas práticas de codificação",
+            "Refatoração",
+            "Testes de unidade",
+            "Código limpo"
+        ]
+    },
+    {
+        "url": "https://harpercollins.com.br/cdn/shop/products/9786555114355.jpg?v=1691738135",
+        "easterEgg": "https://www.amazon.com.br/Box-Trilogia-Senhor-dos-An%C3%A9is/dp/8595086354/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=XL9KGSG8TSGY&dib=eyJ2IjoiMSJ9.F4tiZ-LyCnbir31_5PKVn5hF1qXEBjWhTMaPL0nci73vlGpJfHkq7_sifWVznDFLl0ZsfwC0zX0qeMOiXDBki2dgbn1eH1RwzDW3Pv58Mu8QAlOGgLnwLei4Bn2NakiMOykSMuQUihbdM7SWv7AF4R8w2QeEC_Dhqlh_QbKon3pEIW6ZjJwoIT-o4mOrWCI5MDc4ZgYiUWCYFjrZw2cDYVNc11YeJTdkVX2J3fbgRy6awDx8YOjECZElaKMKUWvOt6uxKmNt04nKActO6L2nbT351NW-ikSpiVjNZH6ffGQ.9cn2RwFAe2-8Gv06HCg-ExHTE60owup0E_R4mzVLYDY&dib_tag=se&keywords=senhor+dos+aneis&qid=1730902248&sprefix=senhor+dos+anei%2Caps%2C185&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d",
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "ano_publicacao": 1954,
+        "genero": "Fantasia",
+        "editora": "HarperCollins",
+        "isbn": "978-0007522903",
+        "idioma": "Português",
+        "paginas": 576,
+        "disponibilidade": {
+            "estoque": 20,
+            "preco": 60.00,
+            "formato": [
+                "Capa dura",
+                "Brochura",
+                "E-book"
+            ]
+        },
+        "adaptacao": {
+            "filme": true,
+            "diretor": "Peter Jackson",
+            "ano_lancamento": 2001
+        }
+    },
+    {
+        "url": "https://m.media-amazon.com/images/I/81TmOZIXvzL._AC_UF1000,1000_QL80_.jpg",
+        "easterEgg": "https://www.amazon.com.br/Pequeno-Pr%C3%ADncipe-Acompanha-marcador-p%C3%A1ginas/dp/6584956245/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3UWERA9LBYXAM&dib=eyJ2IjoiMSJ9.MnyA5T_nd7ssmG1M1q2xoadhsGPRCImRoGilwm8W1lVD5pEJTvX5I36ctfpzApx98ERjoXYY3y-Tk5oOc2P_wpGEC49gbFe7rkMZrfqAHNwVjoUOWY8eBo0k6Via24Qr5tWFXw8MoMp0KUANVJZIcFb4zKC1TopR7P_qUXUTgnmKHqblcAnD4d9kaetoS2qDF0vw28g07_Ps0rZpA8GeWKTw53DwTO2ztmI-S1webglJyt4yDd16Rrt1TZ4bb5wmMiQTWUxKzs3nJPi3_Ldd15KmG3HMG3Xd3hPUSG3AhUU.Qac_W3ZvJLuqIWOqfJE5PBfKuNWtwNgBJe4w4MtJg08&dib_tag=se&keywords=o+pequeno+principe&qid=1730902281&sprefix=o+pequeno+principe%2Caps%2C168&sr=8-2",
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano_publicacao": 1943,
+        "genero": "Infantil",
+        "editora": "HarperCollins",
+        "isbn": "978-8522031445",
+        "idioma": "Português",
+        "paginas": 96,
+        "disponibilidade": {
+            "estoque": 100,
+            "preco": 20.00,
+            "formato": [
+                "Brochura",
+                "E-book",
+                "Audiobook"
+            ]
+        },
+        "ilustracoes": true
+    }
+]
