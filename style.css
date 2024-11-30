@@ -39,15 +39,15 @@ body{
     align-items: center;
 
     & .entradas{
-        width: 28%;
         display: flex;
+        width: 30%;
         flex-flow: column;
         background-color: var(--primaria);
         text-align: center;
         justify-content: center;
         gap: 0.8rem;
-        border-radius: 5px;
-        padding: 50px 0;
+        border-radius: 15px;
+        padding: 5vw 0;
     }
 }
 
