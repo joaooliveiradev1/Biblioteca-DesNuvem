@@ -106,7 +106,9 @@ list-style: none;
 
 
 .rodape{
-    height: 5vh;
+    position: absolute;
+    bottom: 0;
+    padding: 20px 0;
     width: 100%;
     background-color:var(--quinta);
     display: flex;
