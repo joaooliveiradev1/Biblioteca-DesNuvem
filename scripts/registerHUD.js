@@ -1,18 +1,6 @@
 
 function registerHUD() {
-  const hud = document.querySelector('.entradas');
-  const register = document.createElement('div'); // Cria a div
-  register.className = 'register';
 
-  const labelUser = document.createElement('label'); // Cria a label do usuário
-  labelUser.className = 'koh-santepheap-light';
-  labelUser.textContent = "Crie seu login:";
-
-
-  const userInput = document.createElement('input'); // Input para criar usuário
-  userInput.className = 'koh-santepheap-light';
-  userInput.id = 'registerConfirm';
-  userInput.value = ''
 
 
   const labelPassword = document.createElement('label'); // Cria a label da senha
@@ -36,7 +24,7 @@ function registerHUD() {
   confirmPasswordInput.type = 'password';
   confirmPasswordInput.addEventListener('keydown', e => {
     if (e.key == "Enter") { // Evento para enviar registro - btn !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-      const username = userInput.value;
+      const username = userInput.value;gi
       const password = passwordInput.value;
       const confirmPasswordInputValue = confirmPasswordInput.value;
 
