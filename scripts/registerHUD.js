@@ -1,7 +1,19 @@
 
 function registerHUD() {
 
+  const hud = document.querySelector('.entradas');
+  const register = document.createElement('div'); // esta criando a Div
+  register.className = 'register';
 
+  const labelUser = document.createElement('label'); // Sera criado a label para o login
+  labelUser.className = 'koh-santepheap-light';
+  labelUser.textContent = "Crie seu login:";
+
+
+  const userInput = document.createElement('input'); // Foi reformulado imput para criação de usuario
+  userInput.className = 'koh-santepheap-light';
+  userInput.id = 'registerConfirm';
+  userInput.value = ''
 
   const labelPassword = document.createElement('label'); // Cria a label da senha
   labelPassword.className = 'koh-santepheap-light';
